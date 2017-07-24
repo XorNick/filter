@@ -1,0 +1,4 @@
+name: ChatFilter
+version: ${project.version}
+main: net.xornick.chatfilter.ChatFilter
+author: XorNick
